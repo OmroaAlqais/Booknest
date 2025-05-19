@@ -1,0 +1,1 @@
+ C:\\Users\\OmroaAlqais\\Documents\\booknest\\.dart_tool\\flutter_build\\cd4a3a302d0fac9c7245fea3b2539aab\\native_assets.yaml: 
